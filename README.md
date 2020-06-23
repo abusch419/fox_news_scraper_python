@@ -1,2 +1,7 @@
-# fox_news_scraper_python
-Scrapes fox news home page using python. Part of a larger project aimed at creating an intelligent news aggregator for instant fact checking and bias identification in trending news.
+# 🗽🌎🗽🌎🗽Fox News Web Scraper 🗽🌎🗽🌎🗽
+This is a simple Python web scraper that takes breaking news stories from FoxNews.com.
+
+![Fox News photo](https://github.com/SethConnell/Fox-News-Web-Scraper/blob/master/foxpic.JPG?raw=true)
+
+# See it run:
+Just run FoxNewsScraper.py and let the fun begin.
